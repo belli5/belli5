@@ -1,6 +1,5 @@
 # Gabriel-Belliato
-Atualmente sou estudante do 4° periodo da cesar school 
-
+Sou aluno do 4º período de Ciências da Computação na CESAR School, onde tive diversas oportunidades de demonstrar meus projetos. Desenvolvi o Exquisite, um aplicativo em Django voltado para a área da educação, e o Étmus, também em Django, criado para apoiar uma instituição carente em São Paulo. Além disso, desenvolvi os jogos Chickrunning e GEOCONEXO, ambos totalmente em C. Tive a honra de ser monitor em disciplinas como Programação Imperativa e Funcional, Algoritmos e Estruturas de Dados, e Fundamentos de Programação. Todos esses projetos, assim como outras informações, estão disponíveis no meu GitHub e LinkedIn. Essas experiências aprimoraram minhas soft skills, como trabalho em equipe, comunicação e liderança.
  <a href="https://github.com/belli5">Visite meu GitHub</a>
 
  ![belli GitHub stats](https://github-readme-stats.vercel.app/api?username=belli5&show_icons=true&theme=onedark)
