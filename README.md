@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gabriel Belliato and I'm a ..., from ....</h2>
+<h2 align="left">Olá 👋! Meu nome é Gabriel Belliato e sou aluno do 4º período de Ciências da Computação na CESAR School, onde tive diversas oportunidades de demonstrar meus projetos. Desenvolvi o Exquisite, um aplicativo em Django voltado para a área da educação, e o Étmus, também em Django, criado para apoiar uma instituição carente em São Paulo. Além disso, desenvolvi os jogos Chickrunning e GEOCONEXO, ambos totalmente em C. Tive a honra de ser monitor em disciplinas como Programação Imperativa e Funcional, Algoritmos e Estruturas de Dados, e Fundamentos de Programação. Todos esses projetos, assim como outras informações, estão disponíveis no meu GitHub e LinkedIn. Essas experiências aprimoraram minhas soft skills, como trabalho em equipe, comunicação e liderança.</h2>
 
 ###
 
