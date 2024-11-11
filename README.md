@@ -31,28 +31,11 @@
 
 ###
 
-<div align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
-</div>
-
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
  ![belli GitHub stats](https://github-readme-stats.vercel.app/api?username=belli5&show_icons=true&theme=onedark)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belli5&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belli5&layout=compact&theme=onedark)
 ## Tecnologias que ja usei em projetos e tenho um bom nivel
  ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
