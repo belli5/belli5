@@ -34,7 +34,7 @@
 ###
  ![belli GitHub stats](https://github-readme-stats.vercel.app/api?username=belli5&show_icons=true&theme=onedark)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belli5&layout=compact&theme=onedark)
-## Tecnologias que ja usei em projetos e tenho um bom nivel
+## I use:
  ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
