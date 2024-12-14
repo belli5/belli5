@@ -23,7 +23,7 @@
 
 ###
 
-<p ></p>Sou aluno do 4º período de Ciências da Computação na CESAR School, onde tive diversas oportunidades de demonstrar meus projetos. Desenvolvi o Exquisite, um aplicativo em Django voltado para a área da educação, e o Étmus, também em Django, criado para apoiar uma instituição carente em São Paulo. Além disso, desenvolvi os jogos Chickrunning e GEOCONEXO, ambos totalmente em C. Tive a honra de ser monitor em disciplinas como Programação Imperativa e Funcional, Algoritmos e Estruturas de Dados, e Fundamentos de Programação. Todos esses projetos, assim como outras informações, estão disponíveis no meu GitHub e LinkedIn. Essas experiências aprimoraram minhas soft skills, como trabalho em equipe, comunicação e liderança.</p>
+<p ></p>Sou aluno do 5º período de Ciências da Computação na CESAR School, onde tive diversas oportunidades de demonstrar meus projetos. Desenvolvi o Exquisite, um aplicativo em Django voltado para a área da educação, e o Étmus, também em Django, criado para apoiar uma instituição carente em São Paulo e recentemente desenvolvi o EXBV, um banco de dados para a, Arena Boa Viagem, localizada em Recife-Pernambuco, todo feito em MySQL, java e angula. Além disso, desenvolvi os jogos Chickrunning e GEOCONEXO, ambos totalmente em C. Tive a honra de ser monitor em disciplinas como Programação Imperativa e Funcional, Algoritmos e Estruturas de Dados, e Fundamentos de Programação. Todos esses projetos, assim como outras informações, estão disponíveis no meu GitHub e LinkedIn. Essas experiências aprimoraram minhas soft skills, como trabalho em equipe, comunicação e liderança.</p>
 
 ###
 
